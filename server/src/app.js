@@ -6,7 +6,7 @@ const app = express()
 
 app.get('/status', function (req,res){
 
-    res.send('Hello nodejs server nodemon')
+    res.send('Hello nodejs server i am oau')
 
 })
 
